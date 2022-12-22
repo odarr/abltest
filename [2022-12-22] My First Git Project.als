@@ -314,7 +314,7 @@
 											<FreezeStart Value="0" />
 											<FreezeEnd Value="0" />
 											<IsWarped Value="true" />
-											<TakeId Value="-1" />
+											<TakeId Value="0" />
 											<Notes>
 												<KeyTracks>
 													<KeyTrack Id="0">
@@ -1088,7 +1088,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="3">
+																<FileRef Id="4">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Drums/Kick/Kick 3k Deep.aif" />
 																	<Path Value="/Users/marni/Music/Ableton/Factory Packs/Drum Essentials/Samples/Drums/Kick/Kick 3k Deep.aif" />
@@ -3055,7 +3055,7 @@
 											<FreezeStart Value="0" />
 											<FreezeEnd Value="0" />
 											<IsWarped Value="true" />
-											<TakeId Value="-1" />
+											<TakeId Value="0" />
 											<Notes>
 												<KeyTracks>
 													<KeyTrack Id="0">
@@ -3830,7 +3830,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="3">
+																<FileRef Id="4">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Drums/Snare/A-Snare LDW 1 A.aif" />
 																	<Path Value="/Users/marni/Music/Ableton/Factory Packs/Drum Essentials/Samples/Drums/Snare/A-Snare LDW 1 A.aif" />
@@ -5796,7 +5796,7 @@
 											<FreezeStart Value="0" />
 											<FreezeEnd Value="0" />
 											<IsWarped Value="true" />
-											<TakeId Value="-1" />
+											<TakeId Value="0" />
 											<Notes>
 												<KeyTracks>
 													<KeyTrack Id="0">
@@ -6557,20 +6557,20 @@
 												</ReleaseLoop>
 												<SampleRef>
 													<FileRef>
-														<RelativePathType Value="5" />
-														<RelativePath Value="Samples/Drums/Hihat/A-HiHat 1 Half Open A.aif" />
-														<Path Value="/Users/marni/Music/Ableton/Factory Packs/Drum Essentials/Samples/Drums/Hihat/A-HiHat 1 Half Open A.aif" />
+														<RelativePathType Value="3" />
+														<RelativePath Value="Samples/Imported/A-HiHat 1 Half Open A.aif" />
+														<Path Value="/Users/marni/prodn/projects/[2022-12-22] My First Git Project/Samples/Imported/A-HiHat 1 Half Open A.aif" />
 														<Type Value="2" />
-														<LivePackName Value="Drum Essentials" />
-														<LivePackId Value="www.ableton.com/249" />
+														<LivePackName Value="" />
+														<LivePackId Value="" />
 														<OriginalFileSize Value="138866" />
 														<OriginalCrc Value="45065" />
 													</FileRef>
-													<LastModDate Value="1628605847" />
+													<LastModDate Value="1671675549" />
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="0">
+																<FileRef Id="1">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/Drums/Hihat/A-HiHat 1 Half Open A.aif" />
 																	<Path Value="/Users/marni/Music/Ableton/Factory Packs/Drum Essentials/Samples/Drums/Hihat/A-HiHat 1 Half Open A.aif" />
@@ -8973,7 +8973,7 @@
 			<LoopStart Value="8" />
 			<LoopLength Value="16" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="131.74186666666668" />
+			<CurrentTime Value="709.72586666666678" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -9063,7 +9063,7 @@
 		<SoloInPlace Value="true" />
 		<CrossfadeCurve Value="2" />
 		<LatencyCompensation Value="2" />
-		<HighlightedTrackIndex Value="2" />
+		<HighlightedTrackIndex Value="0" />
 		<GroovePool>
 			<LomId Value="0" />
 			<Grooves />
@@ -9094,7 +9094,7 @@
 		<TrackHeaderWidth Value="93" />
 		<ViewStateArrangerHasDetail Value="true" />
 		<ViewStateSessionHasDetail Value="true" />
-		<ViewStateDetailIsSample Value="true" />
+		<ViewStateDetailIsSample Value="false" />
 		<ViewStates>
 			<SessionIO Value="1" />
 			<SessionSends Value="1" />
